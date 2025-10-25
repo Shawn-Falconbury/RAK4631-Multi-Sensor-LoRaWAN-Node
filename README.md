@@ -216,14 +216,14 @@ Feel free to submit issues and pull requests for improvements!
 
 ## Version History
 
-- **v1.0** - Initial release with reliable 5-minute transmission cycle
+- **v1.3.1** - Initial release with reliable 5-minute transmission cycle
   - Unconfirmed messages for duty cycle compliance
   - Environmental and GPS data transmission
   - Power management implementation
 
 ---
 
-**Author**: [Your Name]  
+**Author**: Shawn Falconbury  
 **Last Updated**: October 25, 2025  
-**Hardware**: RAKwireless WisBlock RAK4631  
+**Hardware**: RAKwireless WisBlock RAK4631 with GPS and ENV 
 **Network**: LoRaWAN (US915)
