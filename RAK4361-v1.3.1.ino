@@ -1,5 +1,5 @@
 /**
- * @file RAK_Multi_Sensor_Node_SIMPLE.ino
+ * @file RAK4361-v1.3.1.ino
  * @brief Simplified version with proper unconfirmed message handling
  */
 
