@@ -1,5 +1,5 @@
 /**
- * @file RAK4361_GPS_ENV-v1.3.1.ino
+ * @file RAK4361-v1.3.1.ino
  * @brief Simplified version with proper unconfirmed message handling
  */
 
